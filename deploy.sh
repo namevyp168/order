@@ -6,6 +6,8 @@
 # export PROJ_PATH=这个jenkins任务在部署机器上的路径
 
 # 输入你的环境上tomcat的全路径
+PROJ_PATH=/root
+TOMCAT_APP_PATH=/root/apache-tomcat-9.0.31
 # export TOMCAT_APP_PATH=tomcat在部署机器上的路径
 
 ### base 函数
